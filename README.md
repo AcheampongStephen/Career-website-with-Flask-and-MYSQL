@@ -1,1 +1,1 @@
-# Career-website-with-Flask-and-MYSQL
+# Carrer Website with FLask and MYSQL
